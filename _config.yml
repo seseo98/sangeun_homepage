@@ -29,7 +29,7 @@ sidebar:
   #   link: https://x.com/yeonsun_yang
   - name: CV
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="2" fill="#000"/><text x="12" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fff">CV</text></svg>
-    link: /assets/pdf/CV_Sangeun Seo_POSTECH.pdf
+    link: /assets/pdf/CV_SangeunSeo_POSTECH.pdf
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
