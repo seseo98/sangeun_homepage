@@ -4,7 +4,7 @@ email: sangeunseo@postech.ac.kr
 description: Ph.D. student @ POSTECH
 show_downloads: false
 # google_analytics: G-ZLK2GHB055
-color-scheme: dark
+color-scheme: auto
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
