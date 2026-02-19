@@ -5,6 +5,7 @@ layout: default
 I’m in the 1st year of Ph.D. program in Department of Computer Science and Engineering at POSTECH. I work with <a href="https://https://eunkyungjo.com" class="highlight_info" target="_blank">Prof. Eunkyung Jo</a> at Health and Human-Computer Interaction (H2CI) Lab, POSTECH.
 
 I aim to support human well-being and learning in real-world contexts by bridging the gap between social computing and educational technology. My research focuses on designing interactive systems that foster collaborative synergy in both human-human and human-machine interactions, ultimately personalizing experiences and empowering users in their daily lives. 
+
 ## News
 
 <div class="news-box">
