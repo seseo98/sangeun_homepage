@@ -42,7 +42,7 @@ I aim to support human well-being and learning in real-world contexts by bridgin
     <div class="paper-venue">
       ACM DIS 2024
       <span class="paper-links">
-        <a href="assets/img/DIS2024.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="https://dl.acm.org/doi/pdf/10.1145/3643834.3660708" class="paper-link" target="_blank">PDF</a>
         <a href="https://dl.acm.org/doi/10.1145/3643834.3660708" class="paper-link" target="_blank">DOI</a>
       </span>
     </div>
