@@ -16,7 +16,7 @@ I aim to support human well-being and learning in real-world contexts by bridgin
 <p><span class="news-date">Feb 2025</span> Attending HCI Korea 2025 </p>
 <p><span class="news-date">Jul 2024</span> Attending DIS 2024 in Copenhagen, Denmark! </p>
 <p><span class="news-date">Jul 2024</span> Our paper (2nd author) has been accepted to DIS 2024! </p>
-<p><span class="news-date">Dec 2023</span> Attending KSC 2023 in Busan /p>
+<p><span class="news-date">Dec 2023</span> Attending KSC 2023 in Busan </p>
 <p><span class="news-date">Oct 2023</span> Served as the Organizing Chair for the "Happy Hour & Student Conference" @EECS, DGIST </p>
 <p><span class="news-date">Feb 2023</span> Attending HCI Korea 2023 </p>
 <p><span class="news-date">Sep 2023</span> Joined the DIAG Group @DGIST </p>
