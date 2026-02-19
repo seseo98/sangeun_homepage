@@ -1,9 +1,9 @@
-title: Yeonsun Yang
-logo: /assets/img/profile.jpg
-email: diddustjs98@dgist.ac.kr
-description: Ph.D. student @ DGIST
+title: Sangeun Seo
+logo: /assets/img/sangeunseo.jpg
+email: sangeunseo@postech.ac.kr
+description: Ph.D. student @ POSTECH
 show_downloads: false
-google_analytics: G-ZLK2GHB055
+# google_analytics: G-ZLK2GHB055
 color-scheme: lignt
 plugins:
   - jekyll-sitemap
@@ -12,27 +12,27 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
-  - name: DIAG Lab
-    icon: '<img src="/assets/img/diag.png" alt="DIAG Lab" style="vertical-align:-0.125em; width:1em; height:1em; display:inline-block; filter: invert(1);">'
-    link: https://diag.kr/
+  # - name: DIAG Lab
+  #   icon: '<img src="/assets/img/diag.png" alt="DIAG Lab" style="vertical-align:-0.125em; width:1em; height:1em; display:inline-block; filter: invert(1);">'
+  #   link: https://diag.kr/
   - name: Google Scholar
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
-    link: https://scholar.google.com/citations?user=uAdbFucAAAAJ&hl=ko
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/yeonsunYang
+    link: https://scholar.google.com/citations?hl=ko&user=9HCGJb0AAAAJ
+  # - name: GitHub
+  #   icon: <i class="fa-brands fa-github"></i>
+  #   link: https://github.com/yeonsunYang
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/yeonsun-yang-881069277
-  - name: X
-    icon: <i class="fa-brands fa-x-twitter"></i>
-    link: https://x.com/yeonsun_yang
+    link: https://www.linkedin.com/in/sangeun-seo-853b2b314/
+  # - name: X
+  #   icon: <i class="fa-brands fa-x-twitter"></i>
+  #   link: https://x.com/yeonsun_yang
   - name: CV
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="2" fill="#000"/><text x="12" y="17" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#fff">CV</text></svg>
-    link: /assets/pdf/CV_yeonsunyang.pdf
+    link: /assets/pdf/CV_Sangeun Seo_POSTECH.pdf
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 # adding this avoids it
-github: [metadata]
+# github: [metadata]
