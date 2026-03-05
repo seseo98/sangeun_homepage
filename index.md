@@ -58,7 +58,7 @@ I aim to support human well-being and meaningful learning in real-world contexts
     <div class="paper-authors">Dokyun Lee, <span class="author-name">Sangeun Seo</span>, and Jean Y. Song</div>
     <div class="paper-venue">HCI Korea 2025
     <span class="paper-links">
-        <a href="https://dokyunlee.github.io/assets/materials/HCI_korea_paper_2025.pdf" class="paper-link" target="_blank">PDF</a>
+        <a href="assets/pdf/HCI_korea_paper_2025.pdf" class="paper-link" target="_blank">PDF</a>
       </span>
     </div>
   </div>
